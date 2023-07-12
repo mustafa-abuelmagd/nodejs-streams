@@ -1,0 +1,1 @@
+here we're reading the data and just logging it and writing it to the write file
